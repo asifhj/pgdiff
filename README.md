@@ -1,3 +1,4 @@
+#[Its a fork of https://github.com/joncrlsn/pgdiff]
 # pgdiff - PostgreSQL schema diff
 
 pgdiff compares the schema between two PostgreSQL 9 databases and generates alter statements to be *manually* run against the second database to make them match.  The provided pgdiff.sh script helps automate the process.  
